@@ -1,0 +1,29 @@
+body {
+    background:black;
+    color:white;
+}
+.yy{ 
+  margin-top:200px;
+  text-align:center;
+}
+.uu{
+  width:80%;
+  height:50px;
+  border-radius:20px;
+  background:red;
+  font-size:30px
+}
+.xx{
+  width:80%;
+  height:50px;
+  border-radius:20px;
+  background:blue;
+  font-size:30px;
+}
+.oo{
+  text-align:center;
+}
+div{
+  margin-top:100px;
+  text-align: center;
+}
